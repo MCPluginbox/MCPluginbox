@@ -10,3 +10,20 @@
     •
     <strong><a href="">None</a></strong>
 </p>
+ 
+ # Engine
+ MCPluginBox(Hereinafter referred to as 'MCP') powered by H5GG(a ios mem editor)
+ # Code
+ When editing, use the convenient html+js to write the core part of MCP, and use some obj-c functions written by object-c to assist in some functions.
+ # About source
+ We only open any functions' source. If you have better suggestions on functions, welcome PR to our warehouse. He may be used in MCP.
+ # Purchase Instructions
+ When you purchase this product, by default, you have agreed to the purchase instructions:
+I This product can only be purchased through two channels:
+1. Search MCP QQ group for users with management or agent titles to purchase
+2. Online card network purchase (undeveloped)
+The MCP development team will not assume any responsibility for being cheated by other channels
+II About price
+MCP is divided into two versions and prices, so there are differences in functions
+1.general : 80 CNY
+2.PRO : 180 CNY
