@@ -6,7 +6,7 @@
 <p align="center">
     <strong><a href="CHANGELOG.md">Change Log</a></strong>
     •
-    <strong><a href="https://discord.gg/4S3yUMxuQH">Discord</a></strong>
+    <strong><a href="https://qm.qq.com/cgi-bin/qm/qr?k=RRgf17j1MSV2ajHHiVn_afaFsW7CMVIK&jump_from=webapi&authKey=W26MUk0kXqUfVOoxAd9BbkPk/GdXB1w7rf/DcjmzNOX3ID3gliMxiWPMRgYG/fXx">QQ group</a></strong>
     •
-    <strong><a href="https://twitter.com/palera1n">Twitter</a></strong>
+    <strong><a href="">None</a></strong>
 </p>
