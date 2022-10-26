@@ -4,7 +4,6 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/MCPluginBox/MCPluginBox">
     <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/MCPluginBox/MCPluginBox/total">
     <img alt="MCP version" src="https://img.shields.io/badge/version-0.1-blue">
-    https://img.shields.io/badge/version-0.1-blue
 </h1>
 <h3 align="center">A Minecraft iOS cheat</h3>
 <p align="center">
