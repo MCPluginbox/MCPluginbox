@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://avatars.githubusercontent.com/u/116565741?s=400&u=5cd6aaba9103ca258407f9f64d5cbd95c9967fb5&v=4">
     <p>MCPluginBox</p>
+    <a href="https://img.shields.io/badge/license-MIT-green"><img src="https://img.shields.io/badge/license-MIT-green" alt="githublicense"></a>
 </h1>
 <h3 align="center">A Minecraft iOS cheat</h3>
 <p align="center">
